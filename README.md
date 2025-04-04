@@ -10,4 +10,6 @@ This project is built with .
 - shadcn-ui
 - Tailwind CSS
 
+deployment link:ai-driven-career-guidance-platform-7162syldr.vercel.app
+
 
